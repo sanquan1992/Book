@@ -13,3 +13,4 @@
 10. https://github.com/abreheret/polygon-intersection/blob/master/src/utils.cpp
 11. http://paulbourke.net/geometry/pointlineplane/
 12. https://stackoverflow.com/questions/1073336/circle-line-segment-collision-detection-algorithm
+13. https://blog.csdn.net/qq_36738482/article/details/77131234
