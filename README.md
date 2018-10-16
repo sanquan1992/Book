@@ -10,3 +10,4 @@
 7. https://www.hackingwithswift.com/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader
 8. http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit/
 9. https://opengameart.org
+10. https://github.com/abreheret/polygon-intersection/blob/master/src/utils.cpp
