@@ -11,4 +11,5 @@
 8. http://battleofbrothers.com/sirryan/understanding-shaders-in-spritekit/
 9. https://opengameart.org
 10. https://github.com/abreheret/polygon-intersection/blob/master/src/utils.cpp
-11.http://paulbourke.net/geometry/pointlineplane/
+11. http://paulbourke.net/geometry/pointlineplane/
+12. https://stackoverflow.com/questions/1073336/circle-line-segment-collision-detection-algorithm
